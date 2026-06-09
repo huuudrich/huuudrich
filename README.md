@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Илья Гурин 👋</h1>
+<h1 align="center">Привет, я Илья 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java" />
@@ -9,16 +9,10 @@
 </p>
 
 <p align="center">
-Я начинающий Java-разработчик. Я начал свою изучение с Java-rush и подумал почему бы не пойти на курсы ?
-Выбрал - Яндекс Практикум, закончил обучение в июле 2023 но, не останавливаюсь на достигнутом, активно развиваюсь как разработчик.
-</p>
-
-<p align="center">
   <a href="(https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826)">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
 <p align="center">
-  <a href="mailto:gurinsaints@gmail.com">Email</a> •
-  <a href="https://t.me/ilyagurinwrk">Telegram</a>
+  <a href="https://t.me/OGur1n">Telegram</a>
 </p>
